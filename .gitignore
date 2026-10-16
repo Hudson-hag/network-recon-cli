@@ -1,0 +1,11 @@
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Relatórios gerados nos testes
+scan_report.json
+scan_report.md
+
+# Ambientes virtuais (caso utilize)
+venv/
+.venv/
